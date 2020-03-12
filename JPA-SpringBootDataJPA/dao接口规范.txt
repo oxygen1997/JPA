@@ -1,0 +1,2 @@
+1. 继承两个接口（JpaRepository，JPASpecificationExecutor）
+2. 设置相应泛型

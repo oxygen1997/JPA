@@ -1,0 +1,3 @@
+JPA核心配置文件
+    位置：类路径下META-INF文件夹下
+    命名：persistence.xml
